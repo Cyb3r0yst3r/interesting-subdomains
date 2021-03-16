@@ -1,0 +1,16 @@
+NS1: harlan.ns.cloudflare.com
+NS2: collins.ns.cloudflare.com
+
+
+find * in subdomains where nameserver='harlan.ns.cloudflare.com' and nameserver='collins.ns.cloudflare.com'
+
+azkaban-ro.com
+kadela.xyz
+openpray.com
+karryapp.in
+noobsmp.ml
+otchetpopraktike.ru
+justfakaza.com
+lifenatturally.info
+onlinepomosh.ru
+wlsodde.club
