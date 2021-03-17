@@ -1,0 +1,56 @@
+# Interesting Discoverable Service Statistics
+#
+# This file contains a list of all the discovered cloud and VPN services 
+# as of 15 March 2021.  
+# 
+# Azure Cloud (*azure.com)
+# -----------------------
+#   4,526,395 FQDN's ending in amazon.com
+#   1,981,944 FQND's having the keyword 'bastion' and ending in azure.com
+# 
+# Amazon Cloud (*amazon.com)
+# -----------------------
+#   17,484 production Amazon instances discovered
+#
+# VPN Services Endpoints
+# -----------------------
+#   10,520 NordVPN 
+#      719 ExpressVPN
+#      325 CyberGhost 
+#       93 ProtonVPN 
+#       41 HotSpot Shield  (295 HotSPot + VPN)
+#       33 TunnelBear 
+#       26 IPVanish
+#       25 Windscribe 
+#       20 SurfShark
+#        9 PrivateInternetAccess
+#
+#   1,526,031 VPN endpoints running in Azure (roughly 1/4 of Azure FQNDs)
+#         879 VPN endponts running in Amazon
+# 
+# ADFS Servers
+# ------------------------
+#   50,155 ADFS servers 
+#
+# Firewall Stats
+# ------------------------
+#   69,383 FQDN's containing the keyword 'firewall' in it
+# 
+# Cisco
+# ------------------------
+#   593,202 FQND's containing the keyword 'cisco' 
+#       304 FQDN's containing the keywoard cisco and 'rtr'
+#
+# CCTV
+# ------------------------
+#   241,654 FQDN's containing the phrase cctv 
+#
+# SCADA
+# ------------------------
+#   19,048 FQDN's containing the phrase scada
+#
+# VERKADA 
+# ------------------------
+#    179  FQDN's containing the phrase verkada
+#
+   
