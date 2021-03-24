@@ -5,7 +5,7 @@
 # 
 # Azure Cloud (*azure.com)
 # -----------------------
-#   4,526,395 FQDN's ending in amazon.com
+#   4,526,395 FQDN's ending in azure.com
 #   1,981,944 FQND's having the keyword 'bastion' and ending in azure.com
 # 
 # Amazon Cloud (*amazon.com)
